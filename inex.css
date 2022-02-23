@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.organic{
+    font-size: 2rem;
+    color: black;
+    text-decoration: none;
+    font-family: 'Lobster',cursive ;
+    
+}
+.organic:hover{
+    color: black;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+}
+.nav-link:hover{color: black;
+
+}
+.search{
+    height: 40px;
+    width:80%;
+    border-radius: 60px;
+    outline:none;
+    border: 2px solid rgb(248, 26, 92);
+    color: black;
+    margin-right: -35px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    
+    }
+    .btn0{
+        height: 40px;
+        width: 40%;
+        outline: none;
+        background: rgb(248, 26, 92);
+        color: white;
+        border-radius: 60px;
+        font-weight: 700;
+    }
+.main{
+    background: url(images/firatpage.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%; 
+    background-position: 50% 50%;
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+    
+}
+.btn1{
+   height: 45px;
+   width: 35%; 
+   border: none;
+   outline: none;
+   background-color: rgb(248, 26, 92);
+   color: white;
+   font-weight: 700;
+   border-radius: 60px;
+
+}
+.A{
+width: 400px; border-radius: 50px; float: right;
+}
+.r{
+    text-align: center; font-size: xx-large; color: rgb(248, 26, 92);
+}
+.H{
+text-align: center;
+}
+
+.first{
+    background-color: beige; padding: 20px 100px;
+}
+#row{
+    text-align: center; background-color: beige;
+}
+.col-sm{
+    font-size: xx-large;
+}
+.WE{
+    width: 100px; 
+}
+.YOU{
+    text-align: center;
+}
